@@ -108,27 +108,6 @@ p{
 .card{
   border-radius: 20px;
 }
-/* Media Queries */
-@media (max-width: 1028px){
-  #title{
-    text-align: center;
-  }
-    h1,h2,h3{
-    font-size: 1.5rem;
-    }
-    #cta .cta-text{
-    font-size: 1.5rem;
-    line-height: 1;
-    }
-    .heading{
-    font-size: 2rem;
-    }
-  .title-image{
-    position: static;
-    transform: rotate(0);
-    width: 40%;
-  }
-}
 /* cta section */
 #cta{
   background-color: #3E8E7E;
@@ -144,4 +123,25 @@ p{
 }
 .footer-icon{
   margin: 20px 10px;
+}
+/* Media Queries */
+@media (max-width: 1028px){
+  #title{
+    text-align: center;
+  }
+    h1,h2,h3{
+    font-size: 1.5rem;
+    }
+    .cta-text{
+    font-size: 1.5rem;
+    line-height: 1;
+    }
+    .heading{
+    font-size: 2rem;
+    }
+  .title-image{
+    position: static;
+    transform: rotate(0);
+    width: 40%;
+  }
 }
