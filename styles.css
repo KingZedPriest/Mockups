@@ -116,6 +116,12 @@ p{
     h1,h2,h3{
     font-size: 1rem;
     }
+    .cta-text{
+    font-size: 1rem;
+    }
+    .heading{
+    font-size: 1rem;
+    }
   .title-image{
     position: static;
     transform: rotate(0);
