@@ -114,13 +114,15 @@ p{
     text-align: center;
   }
     h1,h2,h3{
-    font-size: 1rem;
+    font-size: 10px;
     }
     .cta-text{
-    font-size: 1rem;
+    font-size: 10px;
+    line-height: 1;
     }
     .heading{
-    font-size: 1rem;
+    font-size: 10px;
+    line-height: 1;
     }
   .title-image{
     position: static;
