@@ -113,16 +113,15 @@ p{
   #title{
     text-align: center;
   }
-    h1,h2,h3{
-    font-size: 1rem;
+    btn{
+    btn-sm
     }
     .cta-text{
     font-size: 1rem;
     line-height: 1;
     }
     .heading{
-    font-size: 1rem;
-    line-height: 1;
+    font-size: 1.5rem;
     }
   .title-image{
     position: static;
