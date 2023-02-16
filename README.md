@@ -1,2 +1,2 @@
 # Mockups
-This is for Mockups and Short website designs I created.
+This is a Repository for a Nice website Landing pages.
